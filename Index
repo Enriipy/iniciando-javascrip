@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>New Proyect</title>
+</head>
+    <body style="color:blueviolet">
+       Hola mundo
+       <script>
+        console.log("Mi nombre es Carlos");
+        alert("Olas de mar");
+       </script> 
+    </body>
+
+</html>
