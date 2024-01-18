@@ -5,7 +5,7 @@
     <title>New Proyect</title>
 </head>
     <body style="color:blueviolet">
-       Hola mundo
+       <h1>Hola Compas</h1>
        <script>
         console.log("Mi nombre es Carlos");
         alert("Olas de mar");
