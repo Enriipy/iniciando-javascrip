@@ -2,7 +2,7 @@
 let str1 = "Holis";
 let str2 = "adicción";
 let result = str1 + str2;
-console.log('El resultado es ${result}');
+console.log(`El resultado es ${result}`);
 
 // La resta
 let nr1 = 20;
