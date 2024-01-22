@@ -4,6 +4,9 @@ let unaVariable = "naranja";
 // Arrays
 let razasDePerros = ("Labrador", "Pastor Aleman", "Chiguagua", "Pitbul");
 
+const ultimoElemento = razasDePerros(razasDePerros.length - 1);
+console.log(ultimoElemento);
+
 // Sobreescribiendo un array en la posicion -36
 razasDePerros[-36] = null;
 
@@ -11,7 +14,7 @@ razasDePerros[2] = "Dalmata";
 
 console.log((razasDePerros));
 
-console.log(razasDePerros[4]);
+console.log(razasDePerros[3]);
 console.log(razasDePerros[-36]);
 
 
