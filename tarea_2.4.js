@@ -6,6 +6,7 @@ Divide a con c
 Reemplaza el valor de c con el módulo de c y b
 Imprimir los tres números en consola */
 
+
 let a = prompt("Colocar el valor de a");
 let b = prompt("Colocar el valor de b");
 let c = prompt("Colocar el valor de c");
