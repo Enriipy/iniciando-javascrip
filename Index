@@ -6,10 +6,7 @@
 </head>
     <body style="color:blueviolet">
        <h1>Hola Compas</h1>
-       <script>
-        console.log("Mi nombre es Carlos");
-        alert("Olas de mar");
-       </script> 
+   x    <script src="./index.js"></script>
     </body>
 
 </html>
