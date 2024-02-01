@@ -40,4 +40,4 @@ class Ave extends Animal {
 const Pez = new Pez(0);
 console.log(Pez.patas);
 const mam = new Mamifero(2);
-console.log(man.patas);
+console.log(man.patas)
